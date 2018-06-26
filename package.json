@@ -1,0 +1,55 @@
+{
+  "_from": "react-native-plugin-zhugeio",
+  "_id": "react-native-plugin-zhugeio@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-syGb6/Po4Z6VM8lCJr4vqK+efg5JD+D0hfHDzP/gWwgLnHvH6kVRf6ql1Y/pOFui+vPDr/Xmrnz2LF1N+boKHQ==",
+  "_location": "/react-native-plugin-zhugeio",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-plugin-zhugeio",
+    "name": "react-native-plugin-zhugeio",
+    "escapedName": "react-native-plugin-zhugeio",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-plugin-zhugeio/-/react-native-plugin-zhugeio-1.1.1.tgz",
+  "_shasum": "fe951d9543c7087da72b851cc89e865727d772ae",
+  "_spec": "react-native-plugin-zhugeio",
+  "_where": "/Users/rayleigh/dev/test/baieapp",
+  "author": {
+    "name": "Jiaokang",
+    "email": "jiaokang@zhugeio.com"
+  },
+  "bugs": {
+    "url": "https://github.com/zhugesdk/react-native-plugin-zhugeio/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React-native Plugin For Zhugeio Mobile Analysis",
+  "homepage": "https://github.com/zhugesdk/react-native-plugin-zhugeio",
+  "keywords": [
+    "ecosystem:react-native",
+    "react-native",
+    "zhugeio",
+    "ios",
+    "android"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "react-native-plugin-zhugeio",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhugesdk/react-native-plugin-zhugeio.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}
